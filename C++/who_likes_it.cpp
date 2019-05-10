@@ -1,8 +1,8 @@
-/*  Who likes it?   -   CodeWars
-    Nilton Gomes Martins Junior
-    14/04/2019
-    https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/cpp
-*/
+    /*  Who likes it?   -   CodeWars
+        Nilton Gomes Martins Junior
+        14/04/2019
+        https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/cpp
+    */
 
 #include <string>
 #include <vector>
