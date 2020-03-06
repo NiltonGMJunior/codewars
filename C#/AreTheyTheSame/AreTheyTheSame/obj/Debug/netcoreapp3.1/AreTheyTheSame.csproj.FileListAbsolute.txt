@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\codewars\C#\AreTheyTheSame\AreTheyTheSame\bin\Debug\netcoreapp3.1\AreTheyTheSame.exe
+C:\Users\Nilton\Documents\GitHub\codewars\C#\AreTheyTheSame\AreTheyTheSame\bin\Debug\netcoreapp3.1\AreTheyTheSame.deps.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\AreTheyTheSame\AreTheyTheSame\bin\Debug\netcoreapp3.1\AreTheyTheSame.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\AreTheyTheSame\AreTheyTheSame\bin\Debug\netcoreapp3.1\AreTheyTheSame.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\AreTheyTheSame\AreTheyTheSame\bin\Debug\netcoreapp3.1\AreTheyTheSame.dll
+C:\Users\Nilton\Documents\GitHub\codewars\C#\AreTheyTheSame\AreTheyTheSame\bin\Debug\netcoreapp3.1\AreTheyTheSame.pdb
+C:\Users\Nilton\Documents\GitHub\codewars\C#\AreTheyTheSame\AreTheyTheSame\obj\Debug\netcoreapp3.1\AreTheyTheSame.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\codewars\C#\AreTheyTheSame\AreTheyTheSame\obj\Debug\netcoreapp3.1\AreTheyTheSame.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\codewars\C#\AreTheyTheSame\AreTheyTheSame\obj\Debug\netcoreapp3.1\AreTheyTheSame.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\codewars\C#\AreTheyTheSame\AreTheyTheSame\obj\Debug\netcoreapp3.1\AreTheyTheSame.dll
+C:\Users\Nilton\Documents\GitHub\codewars\C#\AreTheyTheSame\AreTheyTheSame\obj\Debug\netcoreapp3.1\AreTheyTheSame.pdb
