@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\codewars\C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.exe
+C:\Users\Nilton\Documents\GitHub\codewars\C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.deps.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.dll
+C:\Users\Nilton\Documents\GitHub\codewars\C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.pdb
+C:\Users\Nilton\Documents\GitHub\codewars\C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\codewars\C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\codewars\C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\codewars\C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.dll
+C:\Users\Nilton\Documents\GitHub\codewars\C#\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\FirstNonRepeatingCharacter.pdb

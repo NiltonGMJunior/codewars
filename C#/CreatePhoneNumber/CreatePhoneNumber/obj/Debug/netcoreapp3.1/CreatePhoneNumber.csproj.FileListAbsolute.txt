@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CreatePhoneNumber\CreatePhoneNumber\bin\Debug\netcoreapp3.1\CreatePhoneNumber.exe
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CreatePhoneNumber\CreatePhoneNumber\bin\Debug\netcoreapp3.1\CreatePhoneNumber.deps.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CreatePhoneNumber\CreatePhoneNumber\bin\Debug\netcoreapp3.1\CreatePhoneNumber.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CreatePhoneNumber\CreatePhoneNumber\bin\Debug\netcoreapp3.1\CreatePhoneNumber.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CreatePhoneNumber\CreatePhoneNumber\bin\Debug\netcoreapp3.1\CreatePhoneNumber.dll
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CreatePhoneNumber\CreatePhoneNumber\bin\Debug\netcoreapp3.1\CreatePhoneNumber.pdb
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\netcoreapp3.1\CreatePhoneNumber.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\netcoreapp3.1\CreatePhoneNumber.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\netcoreapp3.1\CreatePhoneNumber.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\netcoreapp3.1\CreatePhoneNumber.dll
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\netcoreapp3.1\CreatePhoneNumber.pdb
