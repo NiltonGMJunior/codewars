@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\codewars\C#\MostFrequentlyUsedWordsInAText\MostFrequentlyUsedWordsInAText\bin\Debug\netcoreapp3.1\MostFrequentlyUsedWordsInAText.exe
+C:\Users\Nilton\Documents\GitHub\codewars\C#\MostFrequentlyUsedWordsInAText\MostFrequentlyUsedWordsInAText\bin\Debug\netcoreapp3.1\MostFrequentlyUsedWordsInAText.deps.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\MostFrequentlyUsedWordsInAText\MostFrequentlyUsedWordsInAText\bin\Debug\netcoreapp3.1\MostFrequentlyUsedWordsInAText.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\MostFrequentlyUsedWordsInAText\MostFrequentlyUsedWordsInAText\bin\Debug\netcoreapp3.1\MostFrequentlyUsedWordsInAText.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\MostFrequentlyUsedWordsInAText\MostFrequentlyUsedWordsInAText\bin\Debug\netcoreapp3.1\MostFrequentlyUsedWordsInAText.dll
+C:\Users\Nilton\Documents\GitHub\codewars\C#\MostFrequentlyUsedWordsInAText\MostFrequentlyUsedWordsInAText\bin\Debug\netcoreapp3.1\MostFrequentlyUsedWordsInAText.pdb
+C:\Users\Nilton\Documents\GitHub\codewars\C#\MostFrequentlyUsedWordsInAText\MostFrequentlyUsedWordsInAText\obj\Debug\netcoreapp3.1\MostFrequentlyUsedWordsInAText.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\codewars\C#\MostFrequentlyUsedWordsInAText\MostFrequentlyUsedWordsInAText\obj\Debug\netcoreapp3.1\MostFrequentlyUsedWordsInAText.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\codewars\C#\MostFrequentlyUsedWordsInAText\MostFrequentlyUsedWordsInAText\obj\Debug\netcoreapp3.1\MostFrequentlyUsedWordsInAText.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\codewars\C#\MostFrequentlyUsedWordsInAText\MostFrequentlyUsedWordsInAText\obj\Debug\netcoreapp3.1\MostFrequentlyUsedWordsInAText.dll
+C:\Users\Nilton\Documents\GitHub\codewars\C#\MostFrequentlyUsedWordsInAText\MostFrequentlyUsedWordsInAText\obj\Debug\netcoreapp3.1\MostFrequentlyUsedWordsInAText.pdb

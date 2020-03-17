@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CanYouGetTheLoop\CanYouGetTheLoop\bin\Debug\netcoreapp3.1\CanYouGetTheLoop.exe
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CanYouGetTheLoop\CanYouGetTheLoop\bin\Debug\netcoreapp3.1\CanYouGetTheLoop.deps.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CanYouGetTheLoop\CanYouGetTheLoop\bin\Debug\netcoreapp3.1\CanYouGetTheLoop.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CanYouGetTheLoop\CanYouGetTheLoop\bin\Debug\netcoreapp3.1\CanYouGetTheLoop.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CanYouGetTheLoop\CanYouGetTheLoop\bin\Debug\netcoreapp3.1\CanYouGetTheLoop.dll
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CanYouGetTheLoop\CanYouGetTheLoop\bin\Debug\netcoreapp3.1\CanYouGetTheLoop.pdb
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CanYouGetTheLoop\CanYouGetTheLoop\obj\Debug\netcoreapp3.1\CanYouGetTheLoop.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CanYouGetTheLoop\CanYouGetTheLoop\obj\Debug\netcoreapp3.1\CanYouGetTheLoop.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CanYouGetTheLoop\CanYouGetTheLoop\obj\Debug\netcoreapp3.1\CanYouGetTheLoop.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CanYouGetTheLoop\CanYouGetTheLoop\obj\Debug\netcoreapp3.1\CanYouGetTheLoop.dll
+C:\Users\Nilton\Documents\GitHub\codewars\C#\CanYouGetTheLoop\CanYouGetTheLoop\obj\Debug\netcoreapp3.1\CanYouGetTheLoop.pdb

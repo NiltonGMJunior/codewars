@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\codewars\C#\WriteNumberInExpandedForm\WriteNumberInExpandedForm\bin\Debug\netcoreapp3.1\WriteNumberInExpandedForm.exe
+C:\Users\Nilton\Documents\GitHub\codewars\C#\WriteNumberInExpandedForm\WriteNumberInExpandedForm\bin\Debug\netcoreapp3.1\WriteNumberInExpandedForm.deps.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\WriteNumberInExpandedForm\WriteNumberInExpandedForm\bin\Debug\netcoreapp3.1\WriteNumberInExpandedForm.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\WriteNumberInExpandedForm\WriteNumberInExpandedForm\bin\Debug\netcoreapp3.1\WriteNumberInExpandedForm.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\WriteNumberInExpandedForm\WriteNumberInExpandedForm\bin\Debug\netcoreapp3.1\WriteNumberInExpandedForm.dll
+C:\Users\Nilton\Documents\GitHub\codewars\C#\WriteNumberInExpandedForm\WriteNumberInExpandedForm\bin\Debug\netcoreapp3.1\WriteNumberInExpandedForm.pdb
+C:\Users\Nilton\Documents\GitHub\codewars\C#\WriteNumberInExpandedForm\WriteNumberInExpandedForm\obj\Debug\netcoreapp3.1\WriteNumberInExpandedForm.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\codewars\C#\WriteNumberInExpandedForm\WriteNumberInExpandedForm\obj\Debug\netcoreapp3.1\WriteNumberInExpandedForm.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\codewars\C#\WriteNumberInExpandedForm\WriteNumberInExpandedForm\obj\Debug\netcoreapp3.1\WriteNumberInExpandedForm.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\codewars\C#\WriteNumberInExpandedForm\WriteNumberInExpandedForm\obj\Debug\netcoreapp3.1\WriteNumberInExpandedForm.dll
+C:\Users\Nilton\Documents\GitHub\codewars\C#\WriteNumberInExpandedForm\WriteNumberInExpandedForm\obj\Debug\netcoreapp3.1\WriteNumberInExpandedForm.pdb

@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\codewars\C#\IsMyFriendCheating\IsMyFriendCheating\bin\Debug\netcoreapp3.1\IsMyFriendCheating.exe
+C:\Users\Nilton\Documents\GitHub\codewars\C#\IsMyFriendCheating\IsMyFriendCheating\bin\Debug\netcoreapp3.1\IsMyFriendCheating.deps.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\IsMyFriendCheating\IsMyFriendCheating\bin\Debug\netcoreapp3.1\IsMyFriendCheating.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\IsMyFriendCheating\IsMyFriendCheating\bin\Debug\netcoreapp3.1\IsMyFriendCheating.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\IsMyFriendCheating\IsMyFriendCheating\bin\Debug\netcoreapp3.1\IsMyFriendCheating.dll
+C:\Users\Nilton\Documents\GitHub\codewars\C#\IsMyFriendCheating\IsMyFriendCheating\bin\Debug\netcoreapp3.1\IsMyFriendCheating.pdb
+C:\Users\Nilton\Documents\GitHub\codewars\C#\IsMyFriendCheating\IsMyFriendCheating\obj\Debug\netcoreapp3.1\IsMyFriendCheating.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\codewars\C#\IsMyFriendCheating\IsMyFriendCheating\obj\Debug\netcoreapp3.1\IsMyFriendCheating.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\codewars\C#\IsMyFriendCheating\IsMyFriendCheating\obj\Debug\netcoreapp3.1\IsMyFriendCheating.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\codewars\C#\IsMyFriendCheating\IsMyFriendCheating\obj\Debug\netcoreapp3.1\IsMyFriendCheating.dll
+C:\Users\Nilton\Documents\GitHub\codewars\C#\IsMyFriendCheating\IsMyFriendCheating\obj\Debug\netcoreapp3.1\IsMyFriendCheating.pdb
