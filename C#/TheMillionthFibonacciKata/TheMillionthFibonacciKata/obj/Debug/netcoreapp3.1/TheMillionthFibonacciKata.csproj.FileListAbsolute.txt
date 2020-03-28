@@ -1,0 +1,10 @@
+C:\Users\Nilton\Documents\GitHub\codewars\C#\TheMillionthFibonacciKata\TheMillionthFibonacciKata\bin\Debug\netcoreapp3.1\TheMillionthFibonacciKata.exe
+C:\Users\Nilton\Documents\GitHub\codewars\C#\TheMillionthFibonacciKata\TheMillionthFibonacciKata\bin\Debug\netcoreapp3.1\TheMillionthFibonacciKata.deps.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\TheMillionthFibonacciKata\TheMillionthFibonacciKata\bin\Debug\netcoreapp3.1\TheMillionthFibonacciKata.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\TheMillionthFibonacciKata\TheMillionthFibonacciKata\bin\Debug\netcoreapp3.1\TheMillionthFibonacciKata.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\codewars\C#\TheMillionthFibonacciKata\TheMillionthFibonacciKata\bin\Debug\netcoreapp3.1\TheMillionthFibonacciKata.dll
+C:\Users\Nilton\Documents\GitHub\codewars\C#\TheMillionthFibonacciKata\TheMillionthFibonacciKata\bin\Debug\netcoreapp3.1\TheMillionthFibonacciKata.pdb
+C:\Users\Nilton\Documents\GitHub\codewars\C#\TheMillionthFibonacciKata\TheMillionthFibonacciKata\obj\Debug\netcoreapp3.1\TheMillionthFibonacciKata.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\codewars\C#\TheMillionthFibonacciKata\TheMillionthFibonacciKata\obj\Debug\netcoreapp3.1\TheMillionthFibonacciKata.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\codewars\C#\TheMillionthFibonacciKata\TheMillionthFibonacciKata\obj\Debug\netcoreapp3.1\TheMillionthFibonacciKata.dll
+C:\Users\Nilton\Documents\GitHub\codewars\C#\TheMillionthFibonacciKata\TheMillionthFibonacciKata\obj\Debug\netcoreapp3.1\TheMillionthFibonacciKata.pdb
