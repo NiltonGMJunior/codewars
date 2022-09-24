@@ -4,18 +4,17 @@
 #   https://www.codewars.com/kata/52ec24228a515e620b0005ef/train/python
 
 def count_partitions(n):
-    partition = [n]
-
-
+    
 
 def cached_exec(cache, n):
     if n not in cache:
-        cache[n] = count_partitions(n)
-    return cache[n]
+        result = count_partitions(n)
+    return result
 
 def exp_sum(n):
-
-    return
+    cache = {1: 1}
+    cache[n] = cached_exec(cache, n)
+    return cache[n]
 
 def main():
 
